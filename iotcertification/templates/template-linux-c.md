@@ -45,7 +45,6 @@ You should have the following items ready before beginning the process:
 
         ntp.sh;
 
-
 <a name="Build"></a>
 # Step 3: Build and Run the sample
 
@@ -60,6 +59,7 @@ You should have the following items ready before beginning the process:
     {{**Debian or Ubuntu**}}
      git  clone https://github.com/openssl/openssl.git
      git clone https://github.com/eclipse/paho.mqtt.c.git
+     
 {{***build openssl and mqtt***}}
 
     {{**Debian or Ubuntu**}}
